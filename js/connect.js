@@ -1,13 +1,1 @@
-function Connect_DB() {
-  var firebaseConfig = {
-    apiKey: "AIzaSyDfTJJ425U4OY0xac6jdhtSxDeuJ-OF-lE",
-    authDomain: "retailproject-6f4fc.firebaseapp.com",
-    projectId: "retailproject-6f4fc",
-    databaseURL: "https://file-upload-6f4fc.firebaseio.com",
-    storageBucket: "retailproject-6f4fc.appspot.com",
-    messagingSenderId: "653667385625",
-    appId: "1:653667385625:web:a5aed08500de80839f0588",
-    measurementId: "G-9SKTRHHSW9"
-  };
-  firebase.initializeApp(firebaseConfig);
-}
+(function(_0x86c1c1,_0x327a37){var _0x4f03dd=_0x26b4,_0x36ae66=_0x86c1c1();while(!![]){try{var _0x4b8e41=parseInt(_0x4f03dd(0xe7))/0x1+-parseInt(_0x4f03dd(0xe8))/0x2+parseInt(_0x4f03dd(0xe0))/0x3*(-parseInt(_0x4f03dd(0xde))/0x4)+-parseInt(_0x4f03dd(0xdb))/0x5*(-parseInt(_0x4f03dd(0xe2))/0x6)+parseInt(_0x4f03dd(0xdf))/0x7*(-parseInt(_0x4f03dd(0xe3))/0x8)+-parseInt(_0x4f03dd(0xe9))/0x9*(parseInt(_0x4f03dd(0xdc))/0xa)+parseInt(_0x4f03dd(0xe5))/0xb;if(_0x4b8e41===_0x327a37)break;else _0x36ae66['push'](_0x36ae66['shift']());}catch(_0x3d3290){_0x36ae66['push'](_0x36ae66['shift']());}}}(_0x1899,0xab87c));function _0x26b4(_0xeb15aa,_0x19e062){var _0x189982=_0x1899();return _0x26b4=function(_0x26b415,_0x535489){_0x26b415=_0x26b415-0xd9;var _0x3f4b01=_0x189982[_0x26b415];return _0x3f4b01;},_0x26b4(_0xeb15aa,_0x19e062);}function Connect_DB(){var _0x48e0a4=_0x26b4,_0x42296a={'apiKey':_0x48e0a4(0xd9),'authDomain':_0x48e0a4(0xe4),'projectId':_0x48e0a4(0xe1),'databaseURL':'https://file-upload-6f4fc.firebaseio.com','storageBucket':'retailproject-6f4fc.appspot.com','messagingSenderId':_0x48e0a4(0xea),'appId':_0x48e0a4(0xdd),'measurementId':_0x48e0a4(0xe6)};firebase[_0x48e0a4(0xda)](_0x42296a);}function _0x1899(){var _0x1b92ca=['1054554spgenC','47960eXiMRh','retailproject-6f4fc.firebaseapp.com','27696350qjFybU','G-9SKTRHHSW9','1094522FkaAQt','2339866GMXbqp','1701864cxDjoQ','653667385625','AIzaSyDfTJJ425U4OY0xac6jdhtSxDeuJ-OF-lE','initializeApp','30mqMzsC','60PnIQNC','1:653667385625:web:a5aed08500de80839f0588','5604rWjAeZ','721ZnBlmK','2232hviOQi','retailproject-6f4fc'];_0x1899=function(){return _0x1b92ca;};return _0x1899();}
